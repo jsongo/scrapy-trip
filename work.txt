@@ -1,0 +1,6 @@
+一、bread trip
+    1、取得所有的国家信息 (1次请求)
+        run : ./run.sh breadDests
+    2、取得所有的城市信息 (大概19次请求)
+        run: ./run.sh breadCity
+    3、

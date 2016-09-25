@@ -1,0 +1,12 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+trip/__init__.py
+trip/items.py
+trip/pipelines.py
+trip/settings.py
+trip/spiders/__init__.py
+trip/spiders/hongkong.py
